@@ -7,7 +7,7 @@ public class Application01 {
         /*수업목표. 논리연산자에 대해 이해하고 활용할수 있다*/
         /*필기.
         *  논리 연산자
-        *  논리값(true or fale)를 취급하는 연산자이다
+        *  논리값(true or false)를 취급하는 연산자이다
         *   */
 
         /*필기.
